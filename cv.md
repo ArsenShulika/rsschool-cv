@@ -37,3 +37,19 @@ I'm actively developing my skills in Front-End development — currently learnin
 return arr.map(cocktailTemplate).join('');
 }
 ```
+
+## Experience:
+
+**_Pet-projects:_** in progress;
+
+## Eduction:
+
+**National University of Culture and Arts** (Kyiv)
+
+## Languages
+
+- _English(B1)_
+- _German(B2)_
+- _Polish(C1)_
+- _Ukrainian(C2)_
+- _Russian(C2)_
