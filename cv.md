@@ -19,3 +19,21 @@ Hi! My name is Arsen, and I'm based in Wrocław, Poland.
 I'm actively developing my skills in Front-End development — currently learning JavaScript, HTML, and CSS, with a focus on React. Alongside this, I work as a tennis instructor and I'm improving my English (aiming to reach B2 level). I already have experience working on some pet projects.
 
 ===
+
+## Skills:
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- VS Code
+- Figma
+
+===
+
+## Code example:
+
+```export function cocktailsTemplate(arr) {
+return arr.map(cocktailTemplate).join('');
+}
+```
