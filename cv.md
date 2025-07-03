@@ -4,7 +4,7 @@
 
 ## Contact information:
 
-![](./../../FrontEnd%20projects/GoIT/GoiTLM/CV/foto.jpg")
+![foto](./../../FrontEnd%20projects/GoIT/GoiTLM/CV/foto.jpg")
 
 **Phone:** +48 737987971
 
