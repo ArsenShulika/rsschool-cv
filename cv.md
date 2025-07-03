@@ -4,9 +4,13 @@
 
 ## Contact information:
 
+![](./../../FrontEnd%20projects/GoIT/GoiTLM/CV/foto.jpg")
+
 **Phone:** +48 737987971
 
 **Email:** arsenshulika@gmail.com
+
+**Discord:** arsen_62144
 
 [Linkedin](https://www.linkedin.com/feed/)
 [Github](https://github.com/ArsenShulika)
@@ -33,18 +37,34 @@ I'm actively developing my skills in Front-End development — currently learnin
 
 ## Code example:
 
-```export function cocktailsTemplate(arr) {
-return arr.map(cocktailTemplate).join('');
+```
+function pickIt(arr) {
+  var odd = [],
+    even = [];
+  for (let i = 0; i < arr.length; i++)
+    if (arr[i] % 2 == 0) {
+      even.push(arr[i]);
+    } else {
+      odd.push(arr[i]);
+    }
+  return [odd, even];
 }
 ```
+
+====
 
 ## Experience:
 
 **_Pet-projects:_** in progress;
+[CV](arsenshulika.github.io/rsschool-cv/)
 
-## Eduction:
+=====
+
+## Education:
 
 **National University of Culture and Arts** (Kyiv)
+
+=====
 
 ## Languages
 
