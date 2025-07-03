@@ -4,7 +4,7 @@
 
 ## Contact information:
 
-![foto](./../../FrontEnd%20projects/GoIT/GoiTLM/CV/foto.jpg")
+![foto](../../FrontEnd%20projects/GoIT/GoiTLM/CV/foto.jpg")
 
 **Phone:** +48 737987971
 
@@ -13,16 +13,13 @@
 **Discord:** arsen_62144
 
 [Linkedin](https://www.linkedin.com/feed/)
-[Github](https://github.com/ArsenShulika)
 
-===
+[Github](https://github.com/ArsenShulika)
 
 ## About me:
 
 Hi! My name is Arsen, and I'm based in Wrocław, Poland.
 I'm actively developing my skills in Front-End development — currently learning JavaScript, HTML, and CSS, with a focus on React. Alongside this, I work as a tennis instructor and I'm improving my English (aiming to reach B2 level). I already have experience working on some pet projects.
-
-===
 
 ## Skills:
 
@@ -32,8 +29,6 @@ I'm actively developing my skills in Front-End development — currently learnin
 - Git
 - VS Code
 - Figma
-
-===
 
 ## Code example:
 
@@ -51,20 +46,13 @@ function pickIt(arr) {
 }
 ```
 
-====
-
 ## Experience:
 
-**_Pet-projects:_** in progress;
-[CV](arsenshulika.github.io/rsschool-cv/)
-
-=====
+**_Pet-projects:_** [CV](https://ArsenShulika.github.io/rsschool-cv/cv)
 
 ## Education:
 
 **National University of Culture and Arts** (Kyiv)
-
-=====
 
 ## Languages
 
