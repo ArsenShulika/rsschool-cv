@@ -1,10 +1,6 @@
 # Arsen Shulika
 
----
-
 ## Contact information:
-
-![foto](../../FrontEnd%20projects/GoIT/GoiTLM/CV/foto.jpg")
 
 **Phone:** +48 737987971
 
