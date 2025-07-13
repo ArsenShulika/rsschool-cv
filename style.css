@@ -109,3 +109,8 @@ button {
     justify-content: center;
     gap: 80px;
 }
+
+.foto {
+    width: 200px;
+    height: auto;
+}
